@@ -17,7 +17,7 @@
 
 ##
 
-<img src="https://activity-graph.herokuapp.com/graph?username=araj114&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=araj114&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/> -->
 <br/>
 
 
@@ -29,4 +29,3 @@
 <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=araj114&column=7&theme=onedark"/>
 </p>
-
